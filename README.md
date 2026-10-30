@@ -34,15 +34,3 @@ Membership invitation/administration, role-specific policy, notifications, task 
 No `.env`, personal data, `vendor`, `node_modules`, or build output is tracked.
 
 MIT license.
-
-
-## Screenshots
-
-### Dashboard Overview
-![Dashboard](docs/screenshots/01_dashboard.png)
-
-### Login Overview
-![Login](docs/screenshots/02_login.png)
-
-### Projects Overview
-![Projects](docs/screenshots/03_projects.png)
