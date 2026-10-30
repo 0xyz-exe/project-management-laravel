@@ -2,6 +2,19 @@
 
 Standalone Laravel project and task manager with authenticated project membership, Kanban workflow, task assignments, comments, milestones, search, progress metrics, and activity records.
 
+---
+
+## Screenshots
+
+| Tampilan | Preview |
+|---|---|
+| **Direktori Portofolio & Inisiasi Proyek**<br>Daftar seluruh inisiatif proyek tim aktif, jumlah beban tugas, tenggat waktu (deadline), dan formulir pembuatan proyek baru | ![Direktori Portofolio Proyek](docs/screenshots/01-project-portfolio.png) |
+| **Papan Tugas Kanban & Alur Kerja Tim**<br>Manajemen visual 4 kolom alur kerja (To do, In progress, Review, Done) dengan kartu tugas, prioritas, penanggung jawab, dan pemindahan status cepat | ![Papan Tugas Kanban](docs/screenshots/02-kanban-task-board.png) |
+| **Detail Tugas & Kolaborasi Diskusi Tim**<br>Filter tugas terfokus, riwayat diskusi komentar real-time pada kartu tugas, dan form penambahan tanggapan tim | ![Detail Tugas & Kolaborasi Diskusi](docs/screenshots/03-task-details-discussion.png) |
+| **Metrik Beban Kerja & Pencapaian Milestone**<br>Kartu ringkasan kuantitatif status tugas per kategori serta pelacakan target milestone sprint proyek | ![Metrik Beban Kerja & Milestone](docs/screenshots/04-milestones-workload.png) |
+
+---
+
 ## Setup (Windows PowerShell)
 
 ```powershell
